@@ -1,4 +1,7 @@
 /.checkstyle
 /.pmd
 /bin/
-/registrar.properties
+/.settings
+/.VSCodeCounter
+/.classpath
+/.project
